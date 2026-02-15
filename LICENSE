@@ -1,0 +1,29 @@
+This ATUNDA DATA LICENSE AGREEMENT ("Agreement") is an agreement between the University of Florida Research Foundation Inc. and the person or entity that accepts this Agreement ("Licensee"). Any use of the Training Data (as defined below) or exercise of any of the rights or licenses granted under this Agreement shall constitute acceptance of this Agreement by Licensee.
+
+"Approved Model" means a Model that has been approved by Atunda in accordance with Section 3 below.
+
+"CC-BY-NC" license means the Attribution-NonCommercial 4.0 International license available at https://creativecommons.org/licenses/by-nc/4.0/ (as of December 1, 2025).
+
+A "Model" means a computer program or mathematical algorithm that learns from training data, for implicit or explicit objectives, how to infer outputs, such as predictions, classifications, actions, or content, from given inputs.
+
+"Training Data" means the data provided by Atunda under this Agreement for training of a Model.
+
+This Agreement is based on the CC-BY-NC license, which is hereby incorporated by reference. Notwithstanding anything to the contrary, the CC-BY-NC license is hereby amended as follows:
+
+1. Non-Redistribution. Redistribution of any portion of the Training Data, in any form, is prohibited. Redistribution of an Approved Model is permitted, provided that the Licensee complies with the terms of this Agreement, including all the terms and conditions of the CC-BY-NC license. Redistribution of any other work based on or derived from the Training Data is prohibited.
+
+2. Limited Term. 
+a)	The license to use the Training Data is limited to a one (1) year period from the date of delivery of the Training Data set. The delivery date shall be deemed to be the date that Atunda first makes available the Training Data for download to Licensee. 
+b)	Upon the expiration of the initial one-year period, this Agreement shall automatically renew for additional one (1) year periods, unless Atunda notifies Licensee in writing prior to any renewal date that Atunda wishes to cancel such renewal. In the event that this Agreement terminates or expires, Licensee shall cease all use of the Training Data and delete all copies of the Training Data, and all copies, modifications, and derivative works thereof. The license to use and redistribute Approved Models will survive the expiration of this Agreement, provided that this Agreement was not terminated for Licensee's breach.
+
+3. Approved Model. Redistribution of a Model that has been trained using the Training Data is prohibited, unless it has been designated an "Approved Model" according to the process outlined below: 
+	a) If Licensee wishes to have its Model designated an Approved Model, Licensee must submit a training protocol to Atunda in a format specified by Atunda and provide all requested information;
+	b) Licensee must certify that to the best of its knowledge, the Model cannot be used to recreate, derive, or reverse engineer portions of the Training Data,
+	c) Atunda will notify Licensee of its determination after receiving complete responses to all requested information. This determination shall be made in Atunda's sole discretion.
+
+If Atunda has designated a Model an Approved Model, redistribution pursuant to Sections 1 and 2 above is permitted, provided that the Approved Model complies with the training protocol, and further provided that such redistribution complies with the terms and conditions of the CC-BY-NC license.  
+
+4. Breach. Any breach of this Agreement by Licensee shall entitle Atunda to immediately terminate this Agreement and all licenses granted by it upon written notice. Upon any termination for breach, Licensee shall cease to use the Training Data and shall cease redistribution of any Model or work based on or derived from the Training Data. 
+
+5. If there is a conflict between the above paragraphs and any provision of the CC-BY-NC license, the above paragraphs shall take precedence.
+This is free and unencumbered software released into the public domain.
