@@ -26,8 +26,9 @@ https://doi.org/10.1145/3788851.3805020
 
 ## Dataset Structure
 
-Each subfolder under `data/` is organized into phases and internally into 
+Each subfolder under `data/` is organized into phases and internally into method-specific directories such as `fmpose3d`, `mediapipe`, and `sam-body4d`, with each containing the corresponding estimated motion sequences.
 
+```text
 data/
 ├── phase1/
 │   ├── fmpose3d/
@@ -40,6 +41,7 @@ data/
 │   ├── sam-body4d/
 │   └── ...
 └── ...
+```
 
 ------------------------------------------------------------------------
 
