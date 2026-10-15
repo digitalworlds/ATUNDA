@@ -11,7 +11,7 @@ This dataset contains motion data sequences extracted from the [Atunda videos](h
 
 It currently includes 964 move sequences covering 49 distinct dance moves from African and African Diaspora performative culture.
 
-Live dance move player: https://digitalworlds.github.io/atunda-motion-player/
+Dataset visual inspector: https://digitalworlds.github.io/atunda-motion-player/
 
 ### Publications:
 
