@@ -24,6 +24,10 @@ Phase 2 dataset:
 Tristan Pank, Diego Carrascosa, Qudus Onikeku, Jeremy Frusco, Osubi Craig, Angelos Barmpoutis (2026). "Real-Time Computer-Assisted Afrogenic Dance Move Recognition and Analysis", In ACM International Conference on Interactive Media Experiences (IMX) ’26, Athlone, Ireland
 https://doi.org/10.1145/3788851.3805020
 
+Phase 3 dataset:
+
+In progress.
+
 ------------------------------------------------------------------------
 
 ## Dataset Structure
